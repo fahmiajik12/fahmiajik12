@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![fahmiajik12's github stats](https://github-readme-stats.vercel.app/api?username=fahmiajik12&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/fahmiajik12/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahmiajik12)](https://github.com/fahmiajik12/github-readme-stats)
+<a href="https://github.com/fahmiajik12/fahmiajik12">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahmiajik12&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/fahmiajik12/fahmiajik12">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fahmiajik12&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="fahmiajik12's GitHub Stats" />
+</a>
