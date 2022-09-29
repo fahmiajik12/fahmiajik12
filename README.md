@@ -1,23 +1,20 @@
-### Hi there 👋
+### Hi there, I'm Fahmi Aji Kurnia 👋
 
-<!--
-**fahmiajik12/fahmiajik12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👀 I’m interested in Web Developers & UI/UX Designer
+- 🌱 I’m currently learning Go-Lang
+- 👯 I Can collaborate on Open Source, Freelance, Contract, Remote Work, Worldwide
+- 💬 Ask me about Web Development
+- 📫 How to reach me: Fahmiaji123.fak@gmail.com
 
-Here are some ideas to get you started:
+### Skills: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<a href="https://github.com/fahmiajik12/fahmiajik12">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahmiajik12&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/fahmiajik12/fahmiajik12">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fahmiajik12&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="fahmiajik12's GitHub Stats" />
-</a>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fahmiajik12&theme=dark-smoky&border=141E61)](https://git.io/streak-stats)
+   Web Design, UI Design, UX/UI Design, Mobile Design, User Interface Design, Html, Css, Template, English, Bootstrap, Responsive Web Design, Graphic Design,    Creative,And Much More
+
+### My Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahmiajik12&layout=compact&theme=radical&border_color=141E61)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fahmiajik12&show_icons=true&theme=radical&border_color=141E61)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fahmiajik12&theme=radical&border=141E61)](https://git.io/streak-stats)
+
