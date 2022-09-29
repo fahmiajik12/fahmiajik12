@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 <a href="https://github.com/fahmiajik12/fahmiajik12">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fahmiajik12&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="fahmiajik12's GitHub Stats" />
 </a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fahmiajik12&theme=dark-smoky&border=141E61)](https://git.io/streak-stats)
