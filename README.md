@@ -1,14 +1,9 @@
 ### Hi there, I'm Fahmi Aji Kurnia 👋
 
-- 👀 I’m interested in Web Developers & UI/UX Designer
+- 👀 I’m interested in Web Developers
 - 🌱 I’m currently learning Go-Lang
-- 👯 I Can collaborate on Open Source, Freelance, Contract, Remote Work, Worldwide
 - 💬 Ask me about Web Development
 - 📫 How to reach me: Fahmiaji123.fak@gmail.com
-
-### Skills: 
-
-   Web Design, UI Design, UX/UI Design, Mobile Design, User Interface Design, Html, Css, Template, English, Bootstrap, Responsive Web Design, Graphic Design,    Creative,And Much More
 
 ### My Stats
 
